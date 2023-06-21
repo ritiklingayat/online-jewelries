@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product</title>
+    <link rel="stylesheet" href="css\bootstrap.min.css">
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-expand-md bg-dark font-size-nav">
+
+        <!-- This is our logo  -->
+        <a href="#" class="navbar-brand symbol "><img src="symboljpg (2).png" height="100px" width="100px" ></a>
+        
+
+       
+
+        <!-- This is navbar list items here  -->
+        <ul class="navbar-nav d-flex mt-3 margin-left-ul color-text">
+
+
+  <a href="Golden_card.html" target="_blank" aria-expanded="false" class="nav-link text-uppercase margin-left-home text-white"role="button" >Home</a>
+
+
+
+            </li>
+            <li class="text-uppercase nav-item "><a href="#" class="nav-link text-white">Orders</a></li>
+        
+
+            
+            <from class="d-flex" role="search">
+              <input type="text" placeholder="search" class="from-control mt-2 justify-content-center">&nbsp;&nbsp;
+              <button type="button" class="btn btn-outline-info justify-content-right">search</button> 
+            </from>
+    </nav>
+    
+</header>
+
+<section class="bg-section">
+    <div class="h1-heading">
+        <u><h4 class="text-center mt-3 text-uppercase">Our Product</h4></u>
+    </div>
+    <div class="h3-Vegiterian-container">
+      <h3 class="h3-Vegiterian text-center mt-4 mb-5 text-uppercase"><u>Hoops</u></h3>
+  </div>
+
+   
+
+<!--   videoo                                                              
+<center>
+  <video width="320" height="240" controls class="justify-content-center">
+    <source src="video.mp4" type="video/mp4">
+
+
+  </video>
+</center>
+-->
+
+
+
+
+
+  
+
+    <div class="container-fluid ">
+        <div class="container">
+          <div class="row">
+            <div class=" col-lg-4">
+              <div class="card">
+                <img src="golproduct/combocard.jpg" class="card-img-top">
+              
+                <div class="card-body ">
+                  <h3 class="card-title ">Combo Card</h3>
+                  <p class="card-text"><u><b> ₹ 199 </b></u></p>
+                  <p class="card-text"style="color:brown;">Small & medium -Size |Anti tarnish|Hypoallergenic|You can also customise </p>
+                  
+                  <!-- <input type="button" value="view more bird" > -->
+                  <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                  <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+                </div>
+              </div>
+              </div>
+    
+    
+              <div class=" col-lg-4">
+                <div class="card">
+                  <img src="golproduct/boxy.jpg" class="card-img-top">
+                
+                  <div class="card-body">
+                    <h3 class="card-title">Boxy hoops</h3>
+                    <p class="card-text"><u><b> ₹ 199 </b></u></p>
+                    <p class="card-text" style="color:brown;">18K gold plated|Waterproof|Anti tarnish|long lasting|Rose gold shade Size-1.5cm </p>
+                    <!-- <input type="button" value="view more bird" > -->
+                    <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                    <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+                  </div>
+                </div>
+                </div>
+    
+    
+    
+                <div class=" col-lg-4">
+                  <div class="card">
+                    <img src="golproduct/hazel.jpg" class="card-img-top">
+                  
+                    <div class="card-body">
+                      <h3 class="card-title">Hazel Hoops</h3>
+                      <p ><u><b> ₹ 150 </b></u></p>
+                      <p class="card-text"style="color:brown;">Small & medium -Size 18K gold plated|Waterproof|Anti tarnish|Hypoallergenic </p>
+                      <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+                      <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                      <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+                    </div>
+                  </div>
+                  </div>
+
+
+  <br>
+  <br>
+
+  
+ 
+    <div class=" col-lg-4">
+        <div class="card">
+          <img src="golproduct/chain_h.jpg" class="card-img-top">
+        
+          <div class="card-body">
+            <h3 class="card-title">chain link hoops</h3>
+            <p ><u><b> ₹ 299 </b></u></p>
+            <p class="card-text"style="color:brown;">Small & medium -Size 18K gold plated|Waterproof|Anti tarnish|Hypoallergenic </p>
+            <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+            <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+            <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+          </div>
+        </div>
+        </div>
+
+
+
+        <div class=" col-lg-4">
+            <div class="card">
+              <img src="golproduct/Blingy.jpg" class="card-img-top">
+            
+              <div class="card-body">
+                <h3 class="card-title">Blingy</h3>
+                <p ><u><b> ₹ 150 </b></u></p>
+                <p class="card-text"style="color:brown;">Else & Emma hoops 18k gold plated|waterproof|Anti tarnish|long lasting </p>
+                <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+                <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+              </div>
+            </div>
+            </div>
+
+
+
+
+            <div class=" col-lg-4">
+                <div class="card">
+                  <img src="golproduct/g.jpg" class="card-img-top">
+                
+                  <div class="card-body">
+                    <h3 class="card-title">glowy hoops</h3>
+                    <p ><u><b> ₹ 150 </b></u></p>
+                    <p class="card-text"style="color:brown;">Small & medium -Size 18K gold plated| waterproof| anti tarnish| long lasting </p>
+                    <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+                    <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                    <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+                  </div>
+                </div>
+                </div>
+
+                <div class="h3-Vegiterian-container">
+                  <h3 class="h3-Vegiterian text-center mt-4 mb-5 text-uppercase"><u>Neckpieces</u></h3>
+              </div>
+
+    <div class=" col-lg-4">
+      <div class="card">
+        <img src="golproduct/n7.jpg" class="card-img-top">
+      
+        <div class="card-body">
+          <h3 class="card-title">Dainty piece</h3>
+          <p ><u><b> ₹ 250 </b></u></p>
+          <p class="card-text"style="color:brown;">Small & medium -Size 18K gold plated| waterproof| anti tarnish| long lasting </p>
+          <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+          <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+           <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+        </div>
+      </div>
+      </div>
+
+
+
+      <div class=" col-lg-4">
+        <div class="card">
+          <img src="golproduct/victoria_chain2.jpg" class="card-img-top">
+        
+          <div class="card-body">
+            <h3 class="card-title">victoria chain</h3>
+            <p ><u><b> ₹ 399 </b></u></p>
+            <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting</p>
+            <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+            <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+            <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+          </div>
+        </div>
+        </div>
+
+
+
+        <div class=" col-lg-4">
+          <div class="card">
+            <img src="golproduct/infi2.jpg" class="card-img-top">
+          
+            <div class="card-body">
+              <h3 class="card-title">Infinity chain</h3>
+              <p ><u><b> ₹ 299 </b></u></p>
+              <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting</p>
+              <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+              <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+              <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+            </div>
+          </div>
+          </div>
+          
+     <div class=" col-lg-4">
+      <div class="card">
+        <img src="golproduct/vintage_roman_chain.jpg" class="card-img-top">
+      
+        <div class="card-body">
+          <h3 class="card-title"> Roman chain</h3>
+          <p ><u><b> ₹ 199 </b></u></p>
+          <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting |Rose gold</p>
+          <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+          <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+          <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+        </div>
+      </div>
+      </div>
+
+
+
+      <div class=" col-lg-4">
+        <div class="card">
+          <img src="golproduct/butterfly .jpg" class="card-img-top">
+        
+          <div class="card-body">
+            <h3 class="card-title">Butterfly shape</h3>
+            <p ><u><b> ₹ 299 </b></u></p>
+            <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting |Rose gold</p>
+            <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+            <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+            <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+          </div>
+        </div>
+        </div>
+
+
+
+        <div class=" col-lg-4">
+          <div class="card">
+            <img src="golproduct/love.jpg" class="card-img-top">
+          
+            <div class="card-body">
+              <h3 class="card-title">neckpiece</h3>
+              <p ><u><b> ₹ 299 </b></u></p>
+              <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting |Rose gold</p>
+              <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+              <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+              <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+            </div>
+          </div>
+          </div>
+
+
+
+
+          <div class=" col-lg-4">
+            <div class="card">
+              <img src="golproduct/neck.jpg" class="card-img-top">
+            
+              <div class="card-body">
+                <h3 class="card-title"> heartbeat chain</h3>
+                <p ><u><b> ₹ 199 </b></u></p>
+                <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting |silver</p>
+                <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+                <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+              </div>
+            </div>
+            </div>
+
+
+
+          <div class=" col-lg-4">
+            <div class="card">
+              <img src="golproduct/mirrorlogo.jpg" class="card-img-top">
+            
+              <div class="card-body">
+                <h3 class="card-title">Daisy nechpiece</h3>
+                <p ><u><b> ₹ 299 </b></u></p>
+                <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting |Rose gold</p>
+                <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+                <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+              </div>
+            </div>
+            </div>
+
+
+            <div class=" col-lg-4">
+              <div class="card">
+                <img src="golproduct/n2.jpg" class="card-img-top">
+              
+                <div class="card-body">
+                  <h3 class="card-title">Sophia chain</h3>
+                  <p ><u><b> ₹ 299 </b></u></p>
+                  <p class="card-text"style="color:brown;"> All Size 18k gold plated | Stainless steel| Waterproof | Anti tarnish|long lasting |Rose gold</p>
+                  <!-- <input type="button" value="view more bird" class="btn btn-outline-danger"> -->
+                  <a  class="btn btn-outline-light btn-dark"href="">Buy Now</a>
+                  <a  class="btn btn-outline-light btn-dark"href="">add to card</a>
+                </div>
+              </div>
+              </div>
+
+
+
+            
+    
+          </div>
+        </div>
+      </div>
+    
+    
+</body>
+</html>
